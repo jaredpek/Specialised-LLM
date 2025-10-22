@@ -1,0 +1,49 @@
+input,output
+When was the copying and exfiltration of data from the SCM database stopped?,The copying and exfiltration of data from the SCM database was stopped on 4 July 2018.
+"Who discovered the unusual queries in the SCM database, and when?",Staff from IHiS discovered the unusual queries in the SCM database on 4 July 2018.
+What steps were taken after the discovery of unusual queries in the SCM database?,"After the discovery of unusual queries, steps were taken to prevent any similar queries from being run against the SCM database."
+What was recommended by CSA after the detection of malware and communications from the S.P. server?,"After detection of malware and communications from the S.P. server, CSA recommended that internet surfing separation should be implemented."
+What is the purpose of implementing internet surfing separation?,Internet surfing separation is implemented to prevent the attacker from exercising command and control over any remaining footholds they may have in the network.
+When was internet surfing separation implemented?,Internet surfing separation was implemented on 20 July 2018.
+Were there any further signs of malicious activity detected after the implementation of internet surfing separation?,No further signs of malicious activity were detected thereafter.
+What was allowed between the SGH Citrix servers and the SCM database?,Network connections between the SGH Citrix servers and the SCM database were allowed.
+Why was the open connection between SGH Citrix servers and the SCM database considered unnecessary?,The open connection was considered unnecessary and was primarily for convenience to administer the database. It is recommended to reduce the attack surface area.
+What could a basic security review of the network architecture have revealed regarding the connection between SGH Citrix servers and the SCM database?,A basic security review of the network architecture and connectivity between the SGH Citrix servers and the SCM database could have shown that the open network connection created a security vulnerability.
+Was a security review of the network architecture and connectivity between SGH Citrix servers and the SCM database carried out?,"No, such a review was not carried out."
+What is the moral takeaway regarding unnecessary connections?,The moral is to get rid of unnecessary connections.
+What type of queries were run on the SCM database between 26 June and 4 July 2018?,"Between 26 June and 4 July 2018, the attacker ran queries on the SCM database, including bulk queries."
+Why was the attacker able to run queries on the SCM database unchallenged?,The attacker was able to run queries on the SCM database unchallenged because of a lack of monitoring at the SCM database.
+What controls were missing to detect bulk queries being made to the SCM database?,There were no existing controls to detect bulk queries being made to the SCM database.
+What controls were absent at the time of the attack to detect or block queries to the SCM database made using illegitimate applications?,There were no controls in place at the time of the attack to detect or block any queries to the SCM database made using illegitimate applications.
+What type of solutions are available on the market to address gaps in database monitoring?,"Database activity monitoring (""DAM"") solutions are available on the market which could address some or all of the highlighted gaps."
+Was DAM implemented by IHiS at the time of the attack?,"No, DAM was not implemented by IHiS at the time of the attack."
+What was the security status of SGH Citrix servers regarding unauthorized access?,SGH Citrix servers were not adequately secured against unauthorized access.
+How did the compromise of SGH Citrix servers impact the attacker's access?,The compromise of the SGH Citrix servers was critical in giving the attacker access to the SCM database.
+Was Privileged Access Management the only method for accessing SGH Citrix servers?,"No, Privileged Access Management was not the exclusive means for accessing the SGH Citrix servers."
+What alternative method of logging into SGH Citrix servers was possible without 2-factor authentication?,Logins to the SGH Citrix servers by other means without 2-factor authentication were possible.
+Were IHiS Citrix administrators aware of the alternative route for server access?,"Yes, IHiS Citrix administrators were aware of this alternative route."
+Why did IHiS Citrix administrators use the alternative route for server access?,IHiS Citrix administrators made use of the alternative route for convenience.
+Define 'exfiltration of data'.,Exfiltration of data refers to the unauthorized transfer of data from a system or network.
+Define 'malware'.,"Malware is a type of software designed to disrupt, damage, or gain unauthorized access to a computer system."
+Define 'command and control' in the context of a network attack.,"In the context of a network attack, 'command and control' refers to the ability of an attacker to remotely issue commands to and receive information from compromised systems within a network."
+Define 'footholds' in a network security context.,"In network security, 'footholds' are compromised systems or access points within a network that an attacker can use to maintain persistence and move laterally."
+Define 'attack surface area'.,The attack surface area refers to the sum of all the points (the 'attack vectors') at which an unauthorized user or attacker can try to enter or extract data from an environment. Reducing the attack surface area is a security measure to limit potential vulnerabilities.
+Define 'security vulnerability'.,"A security vulnerability is a weakness in a system, network, or application that can be exploited by an attacker to compromise its security."
+Define 'bulk queries'.,"Bulk queries, in the context of a database, refer to a large number of database queries executed in a single operation or in rapid succession, which can sometimes be indicative of unusual or malicious activity."
+Define 'illegitimate applications'.,"Illegitimate applications, in this context, refer to software or tools that are not authorized or approved for use within the network and may be used by attackers to interact with systems."
+Define 'database activity monitoring' (DAM).,Database Activity Monitoring (DAM) is a security solution that monitors and audits database activity in real-time to detect and alert on suspicious or unauthorized access and operations.
+Define 'unauthorized access'.,"Unauthorized access refers to the act of gaining entry to a system, network, or data without proper permission or authorization."
+Define 'Privileged Access Management'.,"Privileged Access Management (PAM) is a cybersecurity strategy that controls, monitors, and secures all human and non-human privileged accounts and access."
+Define '2-factor authentication'.,2-factor authentication (2FA) is a security process that requires two different authentication factors to verify a user's identity. This typically involves something the user knows (like a password) and something the user has (like a code from a mobile device) or something the user is (like a fingerprint).
+What was the timeframe of the queries to the SCM database mentioned?,The queries to the SCM database occurred from 26 June to 4 July 2018.
+What was the date when the copying and exfiltration of data from the SCM database was stopped?,The copying and exfiltration of data from the SCM database was stopped on 4 July 2018.
+Which organization's staff discovered unusual queries in the SCM database?,Staff from IHiS discovered the unusual queries in the SCM database.
+What was the purpose of the steps taken by IHiS staff regarding the SCM database?,The steps taken were to prevent any similar queries from being run against the SCM database.
+What event led to CSA's recommendation for internet surfing separation?,The detection of malware and communications from the S.P. server led to CSA's recommendation for internet surfing separation.
+On what date was internet surfing separation implemented?,Internet surfing separation was implemented on 20 July 2018.
+What was the outcome after internet surfing separation was implemented?,No further signs of malicious activity were detected thereafter.
+What was the nature of the connection between SGH Citrix servers and the SCM database?,Network connections between the SGH Citrix servers and the SCM database were allowed.
+What was the stated reason for the open connection between SGH Citrix servers and the SCM database?,The open connection was for convenience to administer the database.
+What security principle is violated by unnecessary connections?,Unnecessary connections violate the principle of reducing the attack surface area.
+What was the consequence of the lack of monitoring at the SCM database?,"The attacker was able to run queries on the SCM database, including bulk queries, unchallenged."
+What specific types of controls were missing for the SCM database?,There were no existing controls to detect bulk queries and no controls to detect or block queries made using illegitimate applications.

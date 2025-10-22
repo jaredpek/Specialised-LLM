@@ -1,0 +1,51 @@
+input,output
+What were the legal consequences for Robert Tappan Morris after the Morris Worm incident?,"After the Morris Worm incident, Robert Tappan Morris was tried and convicted of violating the 1986 Computer Fraud and Abuse Act. This marked the first felony conviction under this law. His sentence included three years of probation, 400 hours of community service, and a fine of $10,050, which is equivalent to $22,000 in 2023."
+Describe Robert Tappan Morris's academic journey following the Morris Worm.,"Following the Morris Worm incident, Robert Tappan Morris had to discontinue his PhD studies at Cornell. He later completed his PhD in 1999 at Harvard."
+What significant professional achievements did Robert Tappan Morris accomplish after 2000?,"After 2000, Robert Tappan Morris cofounded Y Combinator in 2005. He became a tenured professor at MIT in 2006 and was elected to the National Academy of Engineering in 2019."
+"Provide details about the Code Red worm, including its target and impact.","The Code Red worm targeted Microsoft's IIS (Internet Information Services) web server. It affected 359,000 machines within 14 hours."
+"What was the SQL Slammer worm, and what was its effect?","The SQL Slammer worm targeted Microsoft's SQL Server and Desktop Engine database. It affected 75,000 victims in just 10 minutes."
+"Who was responsible for the Sasser worm, and what was their sentence?",The Sasser worm was authored by an 18-year-old German named Sven Jaschan. He received a 21-month suspended sentence.
+"What systems did the Sasser worm target, and how many machines were affected?","The Sasser worm targeted LSASS (Local Security Authority Subsystem Service) in Windows XP and Windows 2000. It affected approximately 500,000 machines."
+Describe the Conficker worm's target and its scale of impact.,The Conficker worm targeted Windows RPC (Remote Procedure Call). It affected around 10 million machines.
+What was the primary objective and target of the Stuxnet worm?,The Stuxnet worm targeted industrial control systems. It was responsible for causing substantial damage to the nuclear program of Iran.
+In what year was Robert Tappan Morris elected to the National Academy of Engineering?,Robert Tappan Morris was elected to the National Academy of Engineering in 2019.
+What is Robert Tappan Morris's current professional affiliation?,Robert Tappan Morris is an entrepreneur and a professor at MIT.
+When was Y Combinator cofounded by Robert Tappan Morris?,Robert Tappan Morris cofounded Y Combinator in 2005.
+"What was the fine imposed on Robert Tappan Morris, and what is its equivalent value in 2023?","Robert Tappan Morris was fined $10,050. This amount is equivalent to $22,000 in 2023."
+"Which academic institution did Robert Tappan Morris complete his PhD at, and in what year?",Robert Tappan Morris completed his PhD in 1999 at Harvard.
+What was the nature of the Flame attack?,The Flame attack targeted cyber espionage in Middle Eastern countries.
+"What specific law did Robert Tappan Morris violate, leading to his conviction?",Robert Tappan Morris was convicted of violating the 1986 Computer Fraud and Abuse Act.
+What was the historical significance of Robert Tappan Morris's conviction under the 1986 Computer Fraud and Abuse Act?,Robert Tappan Morris's conviction under the 1986 Computer Fraud and Abuse Act was historically significant because it was the first felony conviction of this law.
+How many hours of community service was Robert Tappan Morris required to perform as part of his sentence?,Robert Tappan Morris was sentenced to 400 hours of community service.
+"Before attending Harvard, which university did Robert Tappan Morris initially pursue his PhD at?",Robert Tappan Morris initially pursued his PhD at Cornell before having to quit.
+In what year did Robert Tappan Morris achieve the status of a tenured professor at MIT?,Robert Tappan Morris became a tenured professor at MIT in 2006.
+What type of web server was specifically targeted by the Code Red worm?,The Code Red worm specifically targeted Microsoft's IIS (Internet Information Services) web server.
+How quickly did the SQL Slammer worm impact its victims?,"The SQL Slammer worm affected 75,000 victims in just 10 minutes."
+Which specific Windows operating system components were targeted by the Sasser worm?,The Sasser worm targeted LSASS (Local Security Authority Subsystem Service) in Windows XP and Windows 2000.
+What specific Windows component was the primary target of the Conficker worm?,The Conficker worm primarily targeted Windows RPC (Remote Procedure Call).
+What type of systems were the focus of the Stuxnet worm's attacks?,The Stuxnet worm focused its attacks on industrial control systems.
+Which region was the primary target for cyber espionage by the Flame attack?,The Flame attack primarily targeted cyber espionage in Middle Eastern countries.
+List the cyberattacks mentioned in chronological order by their year of occurrence.,"The cyberattacks mentioned, in chronological order by year, are: Code Red (2001), SQL Slammer (2003), Sasser (2005), Conficker (2008), Stuxnet (2010), and Flame (2012)."
+"Which worm, Code Red or Sasser, affected a larger number of machines?","The Sasser worm affected approximately 500,000 machines, which is a larger number than the Code Red worm, which affected 359,000 machines."
+Compare the speed of impact between the Code Red and SQL Slammer worms.,"The SQL Slammer worm had a significantly faster speed of impact, affecting 75,000 victims in 10 minutes. In contrast, the Code Red worm affected 359,000 machines over a period of 14 hours."
+Which cyberattack was specifically responsible for causing substantial damage to Iran's nuclear program?,The Stuxnet cyberattack was specifically responsible for causing substantial damage to the nuclear program of Iran.
+Identify all the worms mentioned that targeted Microsoft products or services.,"The worms mentioned that targeted Microsoft products or services include Code Red (targeting Microsoft's IIS web server), SQL Slammer (targeting Microsoft's SQL Server and Desktop Engine database), Sasser (targeting LSASS in Windows XP and 2000), and Conficker (targeting Windows RPC)."
+Which of the listed worms affected the largest number of machines?,"The Conficker worm affected the largest number of machines, impacting around 10 million machines."
+"Which worm had a known author who received a suspended sentence, and what was the sentence?","The Sasser worm had a known author, 18-year-old German Sven Jaschan, who received a 21-month suspended sentence."
+What cyberattacks occurred in the 2000s according to the provided timeline?,"According to the timeline, the cyberattacks that occurred in the 2000s are Code Red (2001), SQL Slammer (2003), Sasser (2005), and Conficker (2008)."
+What cyberattacks occurred in the 2010s according to the provided timeline?,"According to the timeline, the cyberattacks that occurred in the 2010s are Stuxnet (2010) and Flame (2012)."
+Describe the targets of the worms that occurred in 2001 and 2003.,"The worm that occurred in 2001 was Code Red, which targeted Microsoft's IIS (Internet Information Services) web server. The worm that occurred in 2003 was SQL Slammer, which targeted Microsoft's SQL Server and Desktop Engine database."
+Provide details on the worm that affected millions of machines.,The Conficker worm affected around 10 million machines by targeting Windows RPC (Remote Procedure Call).
+"What was the earliest cyberattack mentioned after the Morris Worm, and what was its target?","The earliest cyberattack mentioned after the Morris Worm was Code Red, which occurred in 2001 and targeted Microsoft's IIS (Internet Information Services) web server."
+"What was the latest cyberattack mentioned in the timeline, and what was its purpose?","The latest cyberattack mentioned in the timeline was Flame, which occurred in 2012. Its purpose was targeting cyber espionage in Middle Eastern countries."
+Which worms specifically targeted operating system components or services?,"The worms that specifically targeted operating system components or services include Sasser, which targeted LSASS (Local Security Authority Subsystem Service) in Windows XP and 2000, and Conficker, which targeted Windows RPC (Remote Procedure Call)."
+"What is the full name of the individual associated with the Morris Worm, as mentioned in the document?",The full name of the individual associated with the Morris Worm is Robert Tappan Morris.
+What was the total duration of Robert Tappan Morris's probation sentence?,Robert Tappan Morris was sentenced to three years' probation.
+Calculate the approximate rate at which the Code Red worm affected machines.,"The Code Red worm affected 359,000 machines in 14 hours. This approximates to a rate of about 25,643 machines per hour (359,000 machines / 14 hours)."
+Calculate the approximate rate at which the SQL Slammer worm affected victims.,"The SQL Slammer worm affected 75,000 victims in 10 minutes. This approximates to a rate of 7,500 victims per minute (75,000 victims / 10 minutes)."
+Which of the listed worms specifically targeted industrial infrastructure?,The Stuxnet worm specifically targeted industrial control systems.
+Which of the listed worms targeted web servers?,The Code Red worm targeted Microsoft's IIS (Internet Information Services) web server.
+Which of the listed worms targeted database systems?,The SQL Slammer worm targeted Microsoft's SQL Server and Desktop Engine database.
+"What was the age of the Sasser worm's author, Sven Jaschan, at the time of the incident?","The author of the Sasser worm, Sven Jaschan, was 18 years old."
+What was the nature of the sentence received by Sven Jaschan for authoring the Sasser worm?,Sven Jaschan received a 21-month suspended sentence for authoring the Sasser worm.
+What is the current professional description of Robert Tappan Morris?,Robert Tappan Morris is described as an entrepreneur and a professor at MIT.

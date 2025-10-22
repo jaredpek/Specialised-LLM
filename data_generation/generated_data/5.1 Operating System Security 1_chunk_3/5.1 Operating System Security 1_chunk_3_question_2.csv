@@ -1,0 +1,51 @@
+input,output
+What is a subject in the context of access control?,A subject is an entity that is typically held accountable for the actions they have initiated.
+"How many types of subjects are there, and what are they?","There are three types of subjects: ""Owner"", ""Group"", and ""Other""."
+"Define the ""Owner"" type of subject.","An ""Owner"" is typically the creator of a resource. For system resources, ownership may belong to a system administrator."
+"Explain the ""Group"" type of subject and its role in managing privileges.","A ""Group"" is a type of subject where privileges can be assigned to a collection of users, in addition to individual users. When a user joins a group, they automatically gain the corresponding privileges, while a user quitting the group will lose the corresponding permissions. A user can be a member of multiple groups. The concept of groups simplifies the management and updating of permissions."
+"What does the ""Other"" subject category represent, and what level of access is granted to them?","The ""Other"" subject category refers to users who are able to access the system but are not included in the categories of owner and group for a specific resource. These users are granted the least amount of access."
+Can a user belong to multiple groups?,"Yes, a user may belong to multiple groups."
+What is an object in the context of access control?,An object is defined as a resource to which access is controlled. It is an entity used to contain and/or receive information.
+Provide examples of objects in a computer system.,"Examples of objects include records, blocks, pages, segments, files, portions of files, directories, directory trees, mailboxes, messages, and programs."
+List some common computer system components that can be considered objects.,"Common computer system components that can be considered objects include network sockets, hard disks, printers, applications (""Apps""), memory, and databases."
+What is the primary characteristic of an object?,The primary characteristic of an object is that it is a resource to which access is controlled.
+"What does the term ""Operation"" describe in access control?","An ""Operation"" describes the way in which a subject may access an object."
+"Define the ""Read"" operation and what it allows a user to do.","The ""Read"" operation allows a user to view information within a system resource. This can include viewing an entire file, selected records in a file, selected fields within a record, or some combination. ""Read"" access also encompasses the ability to copy or print the information."
+"What is the ""Write"" operation?","The ""Write"" operation allows a user to modify data in a system resource, such as files, records, or programs."
+"Explain the ""Execute"" operation.","The ""Execute"" operation allows a user to run specified programs."
+"What does the ""Delete"" operation entail?","The ""Delete"" operation allows a user to remove certain system resources, such as files or records."
+"Describe the ""Create"" operation.","The ""Create"" operation allows a user to generate new files, records, or fields."
+"What is the ""Search"" operation used for?","The ""Search"" operation allows a user to list the files within a directory or to search the directory in other ways."
+Which operation includes the ability to copy or print?,"The ""Read"" operation includes the ability to copy or print."
+What is an Access Control Matrix?,An Access Control Matrix is a popular implementation of an access control policy.
+How is an Access Control Matrix structured?,"An Access Control Matrix is structured with one dimension consisting of identified subjects that may attempt to access resources, and the other dimension listing the objects that may be accessed."
+What information does each entry in an Access Control Matrix provide?,Each entry in the Access Control Matrix indicates the specific access rights of a particular subject for a particular object.
+"According to the example matrix, what access rights does User A have for File 1?","According to the example matrix, User A has ""Read"", ""Write"", and ""Execute"" access rights for File 1."
+"Based on the example matrix, which users have ""Read"" access to File 4?","Based on the example matrix, User B and User C have ""Read"" access to File 4."
+What access rights does User B have for File 3 in the Access Control Matrix example?,"User B has ""Write"" access rights for File 3 according to the Access Control Matrix example."
+What access rights does User C have for File 1 in the Access Control Matrix example?,"User C has ""Read"" and ""Write"" access rights for File 1 according to the Access Control Matrix example."
+"How is a new subject created in an Access Control Matrix, and who typically performs this action?","To create a new subject ""s"", a new row ""s"" is added to the Access Control Matrix. This action is typically performed by the system administrator."
+"How is a new object created in an Access Control Matrix, and who typically performs this action?","To create a new object ""o"", a new column ""o"" is added to the Access Control Matrix. This action is typically performed by the system administrator."
+"How is a permission ""r"" granted for a subject ""s"" over an object ""o""? Who typically performs this?","To grant permission ""r"" for a subject ""s"" over an object ""o"", the permission ""r"" is entered into the entry M_s,o of the Access Control Matrix. This action is typically performed by the resource owner or the system administrator."
+"How is a permission ""r"" revoked for a subject ""s"" over an object ""o""? Who typically performs this?","To revoke permission ""r"" for a subject ""s"" over an object ""o"", the permission ""r"" is deleted from the entry M_s,o of the Access Control Matrix. This action is typically performed by the resource owner or the system administrator."
+"How is a subject ""s"" destroyed in an Access Control Matrix, and who typically performs this action?","To destroy a subject ""s"", the row corresponding to ""s"" is deleted from the Access Control Matrix. This action is typically performed by the system administrator."
+"How is an object ""o"" destroyed in an Access Control Matrix, and who typically performs this action?","To destroy an object ""o"", the column corresponding to ""o"" is deleted from the Access Control Matrix. This action is typically performed by the system administrator."
+Who has the authority to grant or revoke permissions in an Access Control Matrix?,The resource owner or the system administrator typically has the authority to grant or revoke permissions in an Access Control Matrix.
+What is an Access Control List (ACL) and how does it relate to an Access Control Matrix?,"An Access Control List (ACL) is a practical implementation method for an access control matrix, especially when the matrix is usually sparse. It is implemented by decomposition by columns."
+What information does an ACL list for each object?,"For each object, an ACL lists the users and their permitted access rights."
+When is an ACL particularly convenient?,An ACL is particularly convenient when determining which subjects have which access to a particular resource.
+How is an Access Control Matrix decomposed to form an ACL?,An Access Control Matrix is decomposed by columns to form an Access Control List (ACL).
+"According to the ACL example, what access rights does user A have for File 1?","According to the ACL example, user A has ""Read"", ""Write"", and ""Execute"" access rights for File 1."
+"In the ACL example, which users have access to File 3 and what are their rights?","In the ACL example, user A has ""Read"", ""Write"", and ""Execute"" access to File 3, and user B has ""Write"" access to File 3."
+What is a Capability List (C-List) and how does it relate to an Access Control Matrix?,"A Capability List (C-List) is a practical implementation method for an access control matrix, especially when the matrix is usually sparse. It is implemented by decomposition by rows."
+What information does a C-List specify for a particular user?,A C-List specifies the authorized objects and operations for a particular user.
+When is a C-List particularly convenient?,A C-List is particularly convenient when determining the access rights available to a specific user.
+How is an Access Control Matrix decomposed to form a C-List?,An Access Control Matrix is decomposed by rows to form a Capability List (C-List).
+"According to the C-List example, what objects and operations are authorized for user A?","According to the C-List example, for user A, File 1 has ""Read"", ""Write"", ""Execute"" operations, and File 3 has ""Read"", ""Write"", ""Execute"" operations."
+"In Unix OS, what types of entities are uniformly treated as resources?","In Unix OS, files, directories, memory devices, and I/O devices are uniformly treated as resources."
+What is the ownership structure for resources in Unix OS?,Each resource in Unix OS has a single user owner and a single group owner.
+What are the components of a Unix file listing shown in the example?,"The components of a Unix file listing shown in the example include ""File type"", ""Link counter"", ""File permissions"" (""Read/write/execute""), ""Username"", ""Group name"", ""File size"", and ""Modified date/time""."
+What does the 'd' file type indicator signify in Unix OS?,"In Unix OS, the 'd' file type indicator signifies a directory."
+What does the 's' file type indicator represent in Unix OS?,"In Unix OS, the 's' file type indicator represents a socket."
+What does the 'b' file type indicator represent in Unix OS?,"In Unix OS, the 'b' file type indicator represents a block device file."
+What does the 'l' file type indicator represent in Unix OS?,"In Unix OS, the 'l' file type indicator represents a symbolic link."

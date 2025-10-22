@@ -1,0 +1,51 @@
+input,output
+What were the legal consequences faced by Robert Tappan Morris after the Morris Worm incident?,"After the Morris Worm incident, Robert Tappan Morris was tried and convicted of violating the 1986 Computer Fraud and Abuse Act. This marked the first felony conviction under this law. He was sentenced to three years' probation, 400 hours of community service, and a fine of $10,050, which was equivalent to $22,000 in 2023."
+"Which specific law did Robert Tappan Morris violate, and what was the significance of his conviction?",Robert Tappan Morris violated the 1986 Computer Fraud and Abuse Act. His conviction was significant because it was the first felony conviction under this particular law.
+Describe the academic journey of Robert Tappan Morris following the Morris Worm.,"Following the Morris Worm incident, Robert Tappan Morris had to quit his PhD program at Cornell. He later completed his PhD in 1999 at Harvard."
+When did Robert Tappan Morris complete his PhD and from which institution?,Robert Tappan Morris completed his PhD in 1999 at Harvard.
+"What significant entrepreneurial venture did Robert Tappan Morris cofound, and in what year?",Robert Tappan Morris cofounded Y Combinator in 2005.
+"When did Robert Tappan Morris become a tenured professor, and at which university?",Robert Tappan Morris became a tenured professor at MIT in 2006.
+What prestigious recognition did Robert Tappan Morris receive in 2019?,"In 2019, Robert Tappan Morris was elected to the National Academy of Engineering."
+What is Robert Tappan Morris's current professional description?,Robert Tappan Morris is an entrepreneur and a professor at MIT.
+"What was the financial penalty imposed on Robert Tappan Morris, and what is its modern equivalent?","Robert Tappan Morris was fined $10,050. This amount is equivalent to $22,000 in 2023."
+"Besides a fine and probation, what other part of the sentence did Robert Tappan Morris receive?","In addition to a fine and probation, Robert Tappan Morris was sentenced to 400 hours of community service."
+In what year did Robert Tappan Morris cofound Y Combinator?,Robert Tappan Morris cofounded Y Combinator in 2005.
+When was Robert Tappan Morris elected to the National Academy of Engineering?,Robert Tappan Morris was elected to the National Academy of Engineering in 2019.
+What was the duration of the probation sentence given to Robert Tappan Morris?,Robert Tappan Morris was sentenced to three years' probation.
+"Which university did Robert Tappan Morris have to leave for his PhD studies, and where did he eventually complete it?",Robert Tappan Morris had to quit his PhD at Cornell and subsequently completed his PhD in 1999 at Harvard.
+Summarize the key professional and academic milestones of Robert Tappan Morris after the Morris Worm.,"After the Morris Worm, Robert Tappan Morris completed his PhD at Harvard in 1999. He cofounded Y Combinator in 2005, became a tenured professor at MIT in 2006, and was elected to the National Academy of Engineering in 2019."
+"Describe the Code Red worm, including its target and impact.","Code Red was a worm that emerged in 2001. It targeted Microsoft's IIS web server and affected 359,000 machines within 14 hours."
+What was the primary target of the Code Red worm?,The primary target of the Code Red worm was Microsoft's IIS web server.
+"How many machines were affected by Code Red, and in what timeframe?","Code Red affected 359,000 machines in 14 hours."
+In what year did the Code Red worm become active?,The Code Red worm became active in 2001.
+Provide details about the SQL Slammer worm.,"SQL Slammer was a worm that appeared in 2003. It targeted Microsoft's SQL Server and Desktop Engine database, affecting 75,000 victims in 10 minutes."
+What specific database systems did SQL Slammer target?,SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database.
+"How quickly did SQL Slammer spread, and how many victims did it affect?","SQL Slammer affected 75,000 victims in 10 minutes."
+When was the SQL Slammer worm observed?,The SQL Slammer worm was observed in 2003.
+"Who was the author of the Sasser worm, and what was their sentence?",The author of the Sasser worm was an 18-year-old German named Sven Jaschan. He received a 21-month suspended sentence.
+What operating system components did the Sasser worm target?,The Sasser worm targeted LSASS in Windows XP and 2000.
+How many machines were affected by the Sasser worm?,"The Sasser worm affected around 500,000 machines."
+In what year did the Sasser worm emerge?,The Sasser worm emerged in 2005.
+What was the impact of the Sasser worm on computer systems?,"The Sasser worm targeted LSASS in Windows XP and 2000, affecting around 500,000 machines."
+Describe the Conficker worm's target and scale of impact.,"The Conficker worm, which appeared in 2008, targeted Windows RPC and affected approximately 10 million machines."
+Which specific Windows component was targeted by Conficker?,Conficker targeted Windows RPC.
+Approximately how many machines were affected by Conficker?,Conficker affected around 10 million machines.
+When was the Conficker worm active?,The Conficker worm was active in 2008.
+What was the primary objective and impact of the Stuxnet worm?,"Stuxnet, which emerged in 2010, targeted industrial control systems. It was responsible for causing substantial damage to the nuclear program of Iran."
+Which type of systems did Stuxnet specifically target?,Stuxnet specifically targeted industrial control systems.
+What significant damage was attributed to Stuxnet?,Stuxnet was responsible for causing substantial damage to the nuclear program of Iran.
+In what year was Stuxnet identified?,Stuxnet was identified in 2010.
+What was the purpose of the Flame malware?,"The Flame malware, which appeared in 2012, was used for cyber espionage in Middle Eastern countries."
+Which regions were primarily affected by the Flame malware's activities?,The Flame malware's activities primarily affected Middle Eastern countries.
+When was the Flame malware active?,The Flame malware was active in 2012.
+List the malware mentioned in the document that targeted Microsoft products.,"The malware mentioned that targeted Microsoft products include Code Red (Microsoft's IIS web server), SQL Slammer (Microsoft's SQL Server and Desktop Engine database), Sasser (LSASS in Windows XP and 2000), and Conficker (Windows RPC)."
+"Which malware was responsible for affecting 359,000 machines in 14 hours?","The Code Red worm was responsible for affecting 359,000 machines in 14 hours."
+Which malware targeted industrial control systems?,Stuxnet targeted industrial control systems.
+What was the target of the malware active in 2003?,"The malware active in 2003 was SQL Slammer, which targeted Microsoft's SQL Server and Desktop Engine database."
+Which malware affected around 10 million machines?,The Conficker worm affected around 10 million machines.
+Identify the malware that was used for cyber espionage.,The Flame malware was used for cyber espionage.
+What was the target of the Sasser worm?,The Sasser worm targeted LSASS in Windows XP and 2000.
+Which malware had an 18-year-old German as its author?,The Sasser worm had an 18-year-old German named Sven Jaschan as its author.
+What was the impact of SQL Slammer on victims?,"SQL Slammer affected 75,000 victims in 10 minutes by targeting Microsoft's SQL Server and Desktop Engine database."
+"List the years in which new malware incidents were highlighted in the document, starting from 2001.","New malware incidents highlighted in the document occurred in 2001 (Code Red), 2003 (SQL Slammer), 2005 (Sasser), 2008 (Conficker), 2010 (Stuxnet), and 2012 (Flame)."
+"What was the primary function of Flame, and where was it deployed?","The primary function of Flame was cyber espionage, and it was deployed in Middle Eastern countries."

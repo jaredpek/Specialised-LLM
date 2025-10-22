@@ -1,0 +1,51 @@
+input,output
+Compare the primary targets of Code Red and SQL Slammer.,"Code Red primarily targeted Microsoft's IIS web server. In contrast, SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database."
+What are the differences in targets between Code Red and Sasser?,"Code Red targeted Microsoft's IIS web server. Sasser, however, targeted LSASS in Windows XP and 2000."
+Compare the systems targeted by Code Red and Conficker.,Code Red targeted Microsoft's IIS web server. Conficker targeted Windows RPC.
+What were the distinct targets of Code Red and Stuxnet?,Code Red targeted Microsoft's IIS web server. Stuxnet targeted industrial control systems.
+Compare the targets and purposes of Code Red and Flame.,Code Red targeted Microsoft's IIS web server. Flame targeted cyber espionage in Middle Eastern countries.
+What are the differences in targets between SQL Slammer and Sasser?,SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database. Sasser targeted LSASS in Windows XP and 2000.
+Compare the systems targeted by SQL Slammer and Conficker.,SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database. Conficker targeted Windows RPC.
+What were the distinct targets of SQL Slammer and Stuxnet?,SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database. Stuxnet targeted industrial control systems.
+Compare the targets and purposes of SQL Slammer and Flame.,SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database. Flame targeted cyber espionage in Middle Eastern countries.
+What are the differences in targets between Sasser and Conficker?,Sasser targeted LSASS in Windows XP and 2000. Conficker targeted Windows RPC.
+Compare the systems targeted by Sasser and Stuxnet.,Sasser targeted LSASS in Windows XP and 2000. Stuxnet targeted industrial control systems.
+What were the distinct targets of Sasser and Flame?,Sasser targeted LSASS in Windows XP and 2000. Flame targeted cyber espionage in Middle Eastern countries.
+Compare the systems targeted by Conficker and Stuxnet.,Conficker targeted Windows RPC. Stuxnet targeted industrial control systems.
+What were the distinct targets of Conficker and Flame?,Conficker targeted Windows RPC. Flame targeted cyber espionage in Middle Eastern countries.
+Compare the primary targets and specific impacts of Stuxnet and Flame.,Stuxnet targeted industrial control systems and was responsible for causing substantial damage to the nuclear program of Iran. Flame targeted cyber espionage in Middle Eastern countries.
+Compare the number of machines affected by Code Red and SQL Slammer.,"Code Red affected 359,000 machines in 14 hours. SQL Slammer affected 75,000 victims in 10 minutes."
+What were the differences in the number of machines affected by Code Red and Sasser?,"Code Red affected 359,000 machines. Sasser affected around 500,000 machines."
+Compare the scale of machines affected by Code Red and Conficker.,"Code Red affected 359,000 machines. Conficker affected around 10 million machines."
+What are the differences in the number of victims between SQL Slammer and Sasser?,"SQL Slammer affected 75,000 victims. Sasser affected around 500,000 machines."
+Compare the scale of impact in terms of affected machines for SQL Slammer and Conficker.,"SQL Slammer affected 75,000 victims. Conficker affected around 10 million machines."
+What were the differences in the number of machines affected by Sasser and Conficker?,"Sasser affected around 500,000 machines. Conficker affected around 10 million machines."
+Compare the years of activity for Code Red and SQL Slammer.,Code Red was active in 2001. SQL Slammer was active in 2003.
+What are the differences in the years of activity for Sasser and Conficker?,Sasser was active in 2005. Conficker was active in 2008.
+Compare the years of activity for Stuxnet and Flame.,Stuxnet was active in 2010. Flame was active in 2012.
+What were the differences in the years of activity for Code Red and Flame?,Code Red was active in 2001. Flame was active in 2012.
+Compare the author information provided for Sasser with other listed worms.,"Sasser is explicitly attributed to an 18-year-old German named Sven Jaschan, who received a 21-month suspended sentence. No author information is provided for Code Red, SQL Slammer, Conficker, Stuxnet, or Flame in the document."
+What were the specific impacts of Stuxnet compared to the general effects of Conficker?,Stuxnet targeted industrial control systems and was responsible for causing substantial damage to the nuclear program of Iran. Conficker targeted Windows RPC and affected around 10 million machines.
+Compare the specific purpose of Flame with the general targeting of Code Red.,Flame targeted cyber espionage in Middle Eastern countries. Code Red targeted Microsoft's IIS web server.
+What are the differences in the speed of impact between Code Red and SQL Slammer?,"Code Red affected 359,000 machines in 14 hours. SQL Slammer affected 75,000 victims in 10 minutes."
+Compare Robert Tappan Morris's PhD journey at Cornell and Harvard.,Robert Tappan Morris had to quit his PhD at Cornell. He later completed his PhD in 1999 at Harvard.
+What were the differences between Robert Tappan Morris's academic achievement of completing his PhD and becoming a tenured professor?,Robert Tappan Morris completed his PhD in 1999. He became a tenured professor at MIT in 2006.
+Compare Robert Tappan Morris's conviction with his sentencing details.,"Robert Tappan Morris was tried and convicted of violating the 1986 Computer Fraud and Abuse Act, which was the first felony conviction of this law. His sentencing included three years' probation, 400 hours of community service, and a fine of $10,050."
+What were the differences between the original fine amount for Robert Tappan Morris and its 2023 equivalent?,"Robert Tappan Morris was fined $10,050. The equivalent value of this fine in 2023 is $22,000."
+Compare the probation and community service aspects of Robert Tappan Morris's sentence.,Robert Tappan Morris was sentenced to three years' probation. He was also sentenced to 400 hours of community service.
+What are the differences between Robert Tappan Morris's community service and his fine as part of his sentence?,"Robert Tappan Morris was sentenced to 400 hours of community service. He was also sentenced to a fine of $10,050."
+Compare Robert Tappan Morris's legal outcome as the first felony conviction with his later professional achievements.,"Robert Tappan Morris was the subject of the first felony conviction under the 1986 Computer Fraud and Abuse Act. Later, he cofounded Y Combinator in 2005, became a tenured professor at MIT in 2006, and was elected to the National Academy of Engineering in 2019."
+What are the differences between Robert Tappan Morris's cofounding of Y Combinator and his appointment as a tenured professor at MIT?,Robert Tappan Morris cofounded Y Combinator in 2005. He became a tenured professor at MIT in 2006.
+Compare Robert Tappan Morris's entrepreneurial role with his academic role.,"Robert Tappan Morris cofounded Y Combinator, representing an entrepreneurial role. He also became a tenured professor at MIT, representing an academic role."
+What were the differences in timing between Robert Tappan Morris becoming a tenured professor at MIT and his election to the National Academy of Engineering?,Robert Tappan Morris became a tenured professor at MIT in 2006. He was elected to the National Academy of Engineering in 2019.
+Compare Robert Tappan Morris's early career setback of quitting his PhD with his later career successes.,"Robert Tappan Morris had to quit his PhD at Cornell. Later, he completed his PhD at Harvard in 1999, cofounded Y Combinator in 2005, became a tenured professor at MIT in 2006, and was elected to the National Academy of Engineering in 2019."
+Compare the year Robert Tappan Morris cofounded Y Combinator with the year Sasser was active.,Robert Tappan Morris cofounded Y Combinator in 2005. Sasser was also active in 2005.
+What are the differences in timing between Robert Tappan Morris becoming a tenured professor at MIT and Conficker's activity?,Robert Tappan Morris became a tenured professor at MIT in 2006. Conficker was active in 2008.
+Compare the year Robert Tappan Morris completed his PhD with the year Code Red was active.,Robert Tappan Morris completed his PhD in 1999. Code Red was active in 2001.
+What are the differences in timing between Robert Tappan Morris's election to the National Academy of Engineering and Flame's activity?,Robert Tappan Morris was elected to the National Academy of Engineering in 2019. Flame was active in 2012.
+"Compare the legal consequences faced by Robert Tappan Morris with those faced by Sasser's author, Sven Jaschan.","Robert Tappan Morris was tried and convicted of a felony violation of the 1986 Computer Fraud and Abuse Act, sentenced to three years' probation, 400 hours of community service, and a fine of $10,050. Sasser's author, Sven Jaschan, received a 21-month suspended sentence."
+What were the differences in the nature of the legal outcomes for Robert Tappan Morris and Sven Jaschan?,"Robert Tappan Morris faced a felony conviction under the 1986 Computer Fraud and Abuse Act, resulting in probation, community service, and a fine. Sven Jaschan, the author of Sasser, received a 21-month suspended sentence."
+Compare the rate of machine infection for Code Red and SQL Slammer.,"Code Red affected 359,000 machines in 14 hours. SQL Slammer affected 75,000 victims in 10 minutes."
+What are the differences in the total number of machines affected by Code Red and Conficker?,"Code Red affected 359,000 machines. Conficker affected around 10 million machines."
+Compare the number of affected entities for SQL Slammer and Sasser.,"SQL Slammer affected 75,000 victims. Sasser affected around 500,000 machines."
+What were the differences in the specific targeting and impact between Stuxnet and Conficker?,Stuxnet targeted industrial control systems and caused substantial damage to the nuclear program of Iran. Conficker targeted Windows RPC and affected around 10 million machines.

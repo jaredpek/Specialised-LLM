@@ -1,0 +1,51 @@
+input,output
+Summarize the legal consequences Robert Tappan Morris faced after the Morris Worm incident.,"Robert Tappan Morris was tried and convicted of violating the 1986 Computer Fraud and Abuse Act, marking the first felony conviction under this law. He was sentenced to three years' probation, 400 hours of community service, and a fine of $10,050, which is equivalent to $22,000 in 2023."
+Describe Robert Tappan Morris's academic path after the Morris Worm.,"After the Morris Worm incident, Robert Tappan Morris had to quit his PhD program at Cornell. He subsequently completed his PhD in 1999 at Harvard."
+What significant entrepreneurial venture did Robert Tappan Morris cofound?,Robert Tappan Morris cofounded Y Combinator in 2005.
+Outline Robert Tappan Morris's professional career and recognition at MIT.,Robert Tappan Morris became a tenured professor at MIT in 2006. He was later elected to the National Academy of Engineering in 2019.
+Provide a comprehensive summary of Robert Tappan Morris's life and achievements after the Morris Worm.,"After the Morris Worm, Robert Tappan Morris faced legal repercussions, being tried and convicted of violating the 1986 Computer Fraud and Abuse Act, which was the first felony conviction under this law. He received a sentence of three years' probation, 400 hours of community service, and a $10,050 fine (equivalent to $22,000 in 2023). Academically, he had to leave his PhD at Cornell but completed his PhD in 1999 at Harvard. Professionally, he cofounded Y Combinator in 2005, became a tenured professor at MIT in 2006, and was elected to the National Academy of Engineering in 2019."
+What was Robert Tappan Morris's status at MIT?,Robert Tappan Morris is an entrepreneur and a professor at MIT. He became a tenured professor at MIT in 2006.
+When was Robert Tappan Morris elected to the National Academy of Engineering?,Robert Tappan Morris was elected to the National Academy of Engineering in 2019.
+"What was the fine amount Robert Tappan Morris received, and what is its equivalent value in 2023?","Robert Tappan Morris received a fine of $10,050, which is equivalent to $22,000 in 2023."
+What was the duration of probation Robert Tappan Morris was sentenced to?,Robert Tappan Morris was sentenced to three years' probation.
+How many hours of community service was Robert Tappan Morris sentenced to?,Robert Tappan Morris was sentenced to 400 hours of community service.
+What was the significance of Robert Tappan Morris's conviction under the 1986 Computer Fraud and Abuse Act?,Robert Tappan Morris's conviction under the 1986 Computer Fraud and Abuse Act was significant because it was the first felony conviction of this law.
+In what year did Robert Tappan Morris cofound Y Combinator?,Robert Tappan Morris cofounded Y Combinator in 2005.
+When did Robert Tappan Morris become a tenured professor at MIT?,Robert Tappan Morris became a tenured professor at MIT in 2006.
+Which universities were involved in Robert Tappan Morris's PhD studies?,"Robert Tappan Morris initially had to quit his PhD at Cornell, but he completed his PhD in 1999 at Harvard."
+What is Robert Tappan Morris's current professional description according to the document?,Robert Tappan Morris is described as an entrepreneur and a professor at MIT.
+Summarize the characteristics and impact of the Code Red worm.,"Code Red targeted Microsoft's IIS web server and affected 359,000 machines in 14 hours."
+"Describe the SQL Slammer worm, including its target and impact.","SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database. It affected 75,000 victims in 10 minutes."
+"Provide details about the Sasser worm, its target, impact, and author's outcome.","Sasser targeted LSASS in Windows XP and 2000, affecting around 500,000 machines. Its author was an 18-year-old German named Sven Jaschan, who received a 21-month suspended sentence."
+What was the Conficker worm's target and how many machines did it affect?,Conficker targeted Windows RPC and affected around 10 million machines.
+Explain the Stuxnet worm's target and its significant impact.,Stuxnet targeted industrial control systems and was responsible for causing substantial damage to the nuclear program of Iran.
+What was the primary objective of the Flame worm?,Flame targeted cyber espionage in Middle Eastern countries.
+"List the cyberattacks that occurred in the early 2000s, according to the timeline.","According to the timeline, the cyberattacks that occurred in the early 2000s include Code Red in 2001 and SQL Slammer in 2003."
+Which cyberattacks mentioned in the timeline specifically targeted Microsoft products?,"The cyberattacks mentioned in the timeline that specifically targeted Microsoft products include Code Red, which targeted Microsoft's IIS web server; SQL Slammer, which targeted Microsoft's SQL Server and Desktop Engine database; and Sasser, which targeted LSASS in Windows XP and 2000."
+Compare the number of machines affected by Code Red and Sasser.,"Code Red affected 359,000 machines, while Sasser affected around 500,000 machines."
+What was the impact of SQL Slammer in terms of victims and time?,"SQL Slammer affected 75,000 victims in 10 minutes."
+Who was the author of the Sasser worm and what was his sentence?,"The author of the Sasser worm was an 18-year-old German named Sven Jaschan, who received a 21-month suspended sentence."
+Which worm was responsible for substantial damage to Iran's nuclear program?,Stuxnet was responsible for causing substantial damage to the nuclear program of Iran.
+What year did the Code Red worm occur?,The Code Red worm occurred in 2001.
+What year did the SQL Slammer worm occur?,The SQL Slammer worm occurred in 2003.
+What year did the Sasser worm occur?,The Sasser worm occurred in 2005.
+What year did the Conficker worm occur?,The Conficker worm occurred in 2008.
+What year did the Stuxnet worm occur?,The Stuxnet worm occurred in 2010.
+What year did the Flame worm occur?,The Flame worm occurred in 2012.
+Which cyberattacks listed in the timeline targeted operating system components?,"Sasser targeted LSASS in Windows XP and 2000, and Conficker targeted Windows RPC."
+Which cyberattack had the highest number of affected machines among those listed?,"Conficker affected around 10 million machines, which is the highest number among those listed."
+Summarize the key characteristics of the worms that occurred between 2001 and 2003.,"Between 2001 and 2003, Code Red (2001) targeted Microsoft's IIS web server, affecting 359,000 machines in 14 hours. SQL Slammer (2003) targeted Microsoft's SQL Server and Desktop Engine database, affecting 75,000 victims in 10 minutes."
+"Describe the worms that occurred in the latter half of the 2000s, specifically Sasser and Conficker.","In the latter half of the 2000s, Sasser (2005) targeted LSASS in Windows XP and 2000, affecting around 500,000 machines, and its author received a 21-month suspended sentence. Conficker (2008) targeted Windows RPC, affecting around 10 million machines."
+What was the primary difference in targets between Code Red and SQL Slammer?,"Code Red primarily targeted Microsoft's IIS web server, while SQL Slammer targeted Microsoft's SQL Server and Desktop Engine database."
+Which worm specifically targeted industrial control systems?,Stuxnet specifically targeted industrial control systems.
+"What was the duration it took for Code Red to affect 359,000 machines?","It took 14 hours for Code Red to affect 359,000 machines."
+"What was the duration it took for SQL Slammer to affect 75,000 victims?","It took 10 minutes for SQL Slammer to affect 75,000 victims."
+Which cyberattack was focused on cyber espionage?,Flame was focused on cyber espionage.
+What was the target of the Sasser worm?,The Sasser worm targeted LSASS in Windows XP and 2000.
+What was the target of the Conficker worm?,The Conficker worm targeted Windows RPC.
+Summarize the events related to Robert Tappan Morris's legal and academic life.,"Robert Tappan Morris was tried and convicted of violating the 1986 Computer Fraud and Abuse Act, receiving the first felony conviction under this law. He was sentenced to three years' probation, 400 hours of community service, and a $10,050 fine (equivalent to $22,000 in 2023). Academically, he had to quit his PhD at Cornell but completed it in 1999 at Harvard."
+What were the key professional milestones for Robert Tappan Morris after 2000?,"After 2000, Robert Tappan Morris cofounded Y Combinator in 2005, became a tenured professor at MIT in 2006, and was elected to the National Academy of Engineering in 2019."
+Which cyberattacks on the timeline affected millions of machines?,Conficker affected around 10 million machines.
+What was the age and nationality of the Sasser worm's author?,The Sasser worm's author was an 18-year-old German named Sven Jaschan.
+Provide a summary of the cyberattacks that occurred from 2008 to 2012.,"From 2008 to 2012, the timeline shows Conficker (2008) targeting Windows RPC and affecting around 10 million machines. Stuxnet (2010) targeted industrial control systems and caused substantial damage to Iran's nuclear program. Flame (2012) targeted cyber espionage in Middle Eastern countries."
+What was the primary focus of cyberattacks in the Middle Eastern countries as per the document?,"The primary focus of cyberattacks in the Middle Eastern countries, as per the document, was cyber espionage, targeted by the Flame worm."
