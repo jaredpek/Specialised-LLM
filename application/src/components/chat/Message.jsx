@@ -11,7 +11,7 @@ export default function Message({role, message}) {
       <div className={`border rounded-lg py-3 px-4 w-full`}>
         {
           String(typeof message) == 'string' ?
-          <Markdown components={{a}} className="prose markdown-body">{message}</Markdown> :
+          <Markdown components={{a}} className="prose markdown-body -mb-3">{message}</Markdown> :
           <div>{message}</div>
         }
       </div>

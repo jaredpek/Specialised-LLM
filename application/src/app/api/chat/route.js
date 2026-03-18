@@ -11,7 +11,15 @@ export const POST = async (req) => {
     // initialise vector search index retriever
     // const retriever = localVectorStore.asRetriever(4);
     const retriever = vectorStore.asRetriever(5);
-    const context = await retriever.invoke(message, {});
+
+    let query = "";
+    for (let message of history.slice(-5)) {
+      query += message[1]
+      query += "\n\n"
+    }
+    query += message;
+
+    const context = await retriever.invoke(query, {});
 
     // generate system prompt with instructions and embedded context
     console.log(context);
